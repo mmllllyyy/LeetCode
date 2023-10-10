@@ -29,8 +29,8 @@ public:
         return ans;
     }
 };
-int main()
-{
-    Solution s;
-    s.generateMatrix(0);
-}
+//int main()
+//{
+//    Solution s;
+//    s.generateMatrix(0);
+//}
